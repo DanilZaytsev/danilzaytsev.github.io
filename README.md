@@ -1,1 +1,1 @@
-<a href="project.html">Я дома</a>
+<a href="проект/project.html">Я дома</a>
